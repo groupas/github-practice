@@ -1,1 +1,3 @@
-print('This is AI !!!!')
+def show(value):
+    print(value)
+show('Hello, Wold!')
